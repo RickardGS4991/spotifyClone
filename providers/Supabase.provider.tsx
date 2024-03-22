@@ -16,3 +16,5 @@ const SupabaseProviders: React.FC<SupabaseProviderProps> = ({children}) => {
         </SessionContextProvider>
     )
 };
+
+export default SupabaseProviders;
